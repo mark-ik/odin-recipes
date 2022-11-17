@@ -1,6 +1,7 @@
 # odin-recipes
 This is a simple HTML website that will demonstrate a few
 key HTML skills. It will not be pretty but it will work!
+
 Checklist:
 * index.html - y
 * links of recipes - y
